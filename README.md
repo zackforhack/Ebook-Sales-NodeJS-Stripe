@@ -1,3 +1,6 @@
+# Live DEMO:
+https://sleepy-refuge-55023.herokuapp.com/
+
 # Ebook Seller App
 
 Node.js/ Express app that uses the Stripe API to sell an ebook
@@ -34,9 +37,7 @@ $ npm start
 ## App Info
 
 ### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Zack Huang
 
 ### Version
 
